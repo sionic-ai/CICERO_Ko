@@ -1,14 +1,15 @@
-# Fork한 데이터 세트에 한국어 번역을 추가하였음
+# Fork한 데이터 세트에 한국어 번역을 추가함
 
 
-트레인 데이터 
+## 학습 데이터      
 https://docs.google.com/spreadsheets/d/1JD7AjU-pIkJqfZFNNtFwaCOFutOlBgMELTg79x9eJaQ/edit?usp=sharing
+        
 
-
-테스트 데이터
+## 테스트 데이터        
 
 https://docs.google.com/spreadsheets/d/1jWPhDK9i50jgCl0S9ifXSpm0CJ2NnOg3j37wm31m68o/edit?usp=sharing
 
+       
 
 
 :fire::fire: We have released the checkpoint of our dialogue-level transformer model DIALeCT for contextual commonsense inference generation on Huggingface along with a demo. Check it out: https://huggingface.co/declare-lab/dialect
