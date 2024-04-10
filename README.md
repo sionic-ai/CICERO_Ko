@@ -1,11 +1,11 @@
 # Fork한 데이터 세트에 한국어 번역을 추가함
 
 
-## 학습 데이터      
+## 한국어 학습 데이터      
 https://docs.google.com/spreadsheets/d/1JD7AjU-pIkJqfZFNNtFwaCOFutOlBgMELTg79x9eJaQ/edit?usp=sharing
         
 
-## 테스트 데이터        
+## 한국어 테스트 데이터        
 
 https://docs.google.com/spreadsheets/d/1jWPhDK9i50jgCl0S9ifXSpm0CJ2NnOg3j37wm31m68o/edit?usp=sharing
 
